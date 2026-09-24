@@ -75,7 +75,5 @@ al menos 8 caracteres, y muestra los mensajes con JOptionPane.
 )
 ```
 
-- [Bitacora de prompts](BITACORA.md)
-
 
 
